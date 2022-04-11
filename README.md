@@ -19,8 +19,6 @@ Back-end developer, PHP, Javascript and MySQL fan.
 I am an aspirant in SQL databases, where I am always looking to improve my performance.
 
 
-📚I'm learning at the moment ReactJS, ReactNative 
-
 ### 💻 Technologies
 
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
